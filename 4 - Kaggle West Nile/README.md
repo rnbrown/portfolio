@@ -21,8 +21,8 @@ The link to the Kaggle competition is:
 https://www.kaggle.com/c/predict-west-nile-virus
 
 Directory Structure:
-Main directory - Final Presentation, Text files
-input - raw data, cleaned data, processed/engineered data
-src - some external geographical data
-working - working code from each team member
+Main directory - Final Presentation, Text files<br>
+input - raw data, cleaned data, processed/engineered data<br>
+src - some external geographical data<br>
+working - working code from each team member<br>
 
