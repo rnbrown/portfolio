@@ -19,3 +19,10 @@ We were expected to refine a problem statement, wrangle the given data, engineer
 
 The link to the Kaggle competition is:
 https://www.kaggle.com/c/predict-west-nile-virus
+
+Directory Structure:
+Main directory - Final Presentation, Text files
+input - raw data, cleaned data, processed/engineered data
+src - some external geographical data
+working - working code from each team member
+
